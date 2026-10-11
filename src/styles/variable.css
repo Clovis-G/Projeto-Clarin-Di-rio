@@ -1,0 +1,16 @@
+:root{
+    --tin: #111111;
+    --paper: #f7f4ec;
+    --urgent: #b3001b;
+    --legend-gray: #5d5a52;
+    
+    --font-headline: 'Georgia', Timew Neu Roman, serif;
+    --font-vi: 'Arial', Helvetica, sans-serif
+}
+
+[data-theme='dark']{
+    --tin: #e8e4d8;
+    --paper: #191817;
+    --urgente: #ff5468;
+    --legend-gray: #a5a199;
+}

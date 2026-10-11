@@ -1,0 +1,22 @@
+.card{
+    padding: 2rem;
+    background-color: var(--papper);
+    border: .2rem solid var(--tin);
+}
+.card__category{
+    color: var(--urgent);
+}
+.card__title a{
+    display: inline-block;
+    margin: 4rem 0 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--tin);
+    &:hover{
+        text-decoration: underline;
+    }
+}
+.card__description{
+    font-size: 1.8rem;
+    color: var(--legend-gray);
+}

@@ -1,0 +1,25 @@
+.division__container, .section__container {
+    margin: 2rem 0;
+}
+.division__container b {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+}
+.clarin__news {
+    margin-top: 2rem;
+    font-size: 1.8rem;
+    color: var(--legend-gray);
+}
+.clarin__news b{
+    margin-top: initial;
+    color: var(--tin);
+    font-size: 1.7rem;
+}
+.clarin__news b{
+    margin: 0;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat( auto-fill, minmax(28rem, 1fr));
+    gap: 1.6rem;
+}
