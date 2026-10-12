@@ -102,5 +102,4 @@ let news = [
         newUrl: 'https://rio.websummit.com/blog/news/record-breaking-web-summit-rio-welcomes-largest-ever-gathering-with-40287-attendees-and-1572-startups/'
     }
 ]
-
 export default news
