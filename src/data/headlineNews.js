@@ -24,7 +24,7 @@ let news = [
         id: 3,
         category: 'Investimento científico',
         title: 'Governo detalha meta de elevar investimento em ciência para 2% do PIB até 2034',
-        image: `${import.meta.env.BASE_URL}icons/src/icons/materia-03.png`,
+        image: `${import.meta.env.BASE_URL}icons/materia-03.png`,
         sumary: 'Nova Estratégia Nacional de Ciência, Tecnologia e Inovação foi apresentada na 78ª Reunião Anual da SBPC',
         textNew: `Durante a 78ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), realizada em Niterói (RJ), a ministra da Ciência, Tecnologia e Inovação, Luciana Santos, apresentou os desdobramentos da nova Estratégia Nacional de Ciência, Tecnologia e Inovação, com vigência prevista entre 2024 e 2034. A meta central do plano é elevar os investimentos nacionais em pesquisa e desenvolvimento para 2% do PIB até o fim da década seguinte — patamar que colocaria o Brasil mais próximo da média de países desenvolvidos nesse indicador. Segundo a pasta, o setor de ciência, tecnologia e inovação já soma R$ 55 bilhões em recursos aplicados. A ministra reforçou que o plano busca também reduzir desigualdades regionais na distribuição de verbas de pesquisa e ampliar parcerias entre universidades públicas, institutos de pesquisa e o setor produtivo, como forma de transformar conhecimento científico em inovação aplicada à economia.`,
         font: 'MCTI / 78ª Reunião da SBPC.',
