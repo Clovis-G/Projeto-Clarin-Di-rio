@@ -20,16 +20,16 @@ export function Home(){
                     category = {headline.category}
                     title = {headline.title}
                     sumary = {headline.sumary}
-                />
+                    />
                 </section>
                 <section className="grid">
                     {newsTooMuch.map(newMore => (
-                    <NewsCards
+                        <NewsCards
                         id = {newMore.id}
                         category = {newMore.category}
                         title = {newMore.title}
                         sumary = {newMore.sumary}
-                    />
+                        />
                     ))}
                 </section>
             </main>

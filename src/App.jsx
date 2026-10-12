@@ -16,6 +16,7 @@ function App(){
   useEffect(() => document.documentElement.setAttribute('data-theme', theme), [theme])
   return(
     <>
+      <h1>React funcionando</h1>
       <Header
         theme = {theme}
         themeChange={ThemeChange}
